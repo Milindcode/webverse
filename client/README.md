@@ -7,3 +7,5 @@
 3. Student Details: student/me
 4. Warden Login
 5. Faculty Login
+6. Warden Details
+6. Students Leave and Add Leave (partially)
